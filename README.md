@@ -107,21 +107,6 @@ Categories included:
 - Displayed predictions, scores, tips, and facts  
 
 ---
-## 🗂️ Folder Structure
-Smart-Waste-Classifier/
-│
-├── app.py                     # Streamlit application
-├── waste_classifier_v2.tflite # TFLite model file
-├── requirements.txt           # Required Python packages
-├── AIML.ipynb                 # Training notebook
-├── screenshots/               # App screenshots
-│   ├── home.png
-│   ├── organic.png
-│   └── recyclable.png
-└── README.md                  # Documentation
-
-
----
 
 ## 🖼️ Dashboard Preview
 Home Page
