@@ -125,10 +125,11 @@ Smart-Waste-Classifier/
 
 ## 🖼️ Dashboard Preview
 
-![Home Screen]("![Home Screen](https://raw.githubusercontent.com/Shubhamsp30/Smart-Waste-Classifier/main/Home%20Page.png)
-")
-![Organic Waste Prediction]("C:\Users\SHUBHAM PATIL\OneDrive\Pictures\Screenshots\Screenshot 2025-10-29 003636.png")
-![Recyclable Waste Prediction]("C:\Users\SHUBHAM PATIL\OneDrive\Pictures\Screenshots\Screenshot 2025-10-29 004118.png")
+[Home Screen](https://raw.githubusercontent.com/Shubhamsp30/Smart-Waste-Classifier/main/Home%20Page.png)
+
+[Organic Prediction](https://raw.githubusercontent.com/Shubhamsp30/Smart-Waste-Classifier/main/Organic.png)
+
+[Recyclable Prediction](https://raw.githubusercontent.com/Shubhamsp30/Smart-Waste-Classifier/main/Recycle.png)
 
 ---
 
