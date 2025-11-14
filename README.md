@@ -125,7 +125,7 @@ Smart-Waste-Classifier/
 
 ## 🖼️ Dashboard Preview
 
-![Home Screen]("C:\Users\SHUBHAM PATIL\OneDrive\Pictures\Screenshots\Screenshot 2025-10-29 003502.png")
+![Home Screen]("Home Page.png")
 ![Organic Waste Prediction]("C:\Users\SHUBHAM PATIL\OneDrive\Pictures\Screenshots\Screenshot 2025-10-29 003636.png")
 ![Recyclable Waste Prediction]("C:\Users\SHUBHAM PATIL\OneDrive\Pictures\Screenshots\Screenshot 2025-10-29 004118.png")
 
