@@ -52,7 +52,6 @@ The model tries to classify waste into categories like:
 - Organic
 - Other waste
 
-(This may vary based on dataset)
 
 ---
 
